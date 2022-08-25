@@ -1,0 +1,384 @@
+All Leagues Matches Schuldes : 
+
+
+1 ) Europa League 2022/2023
+
+25.08. 21:00  AEK Larnaca (Cyp) VS Dnipro-1 (Ukr)
+25.08. 21:00  Zalgiris (Ltu) VS Ludogorets (Bul)
+25.08. 21:30  Silkeborg (Den) VS HJK (Fin)
+25.08. 22:00  Fenerbahce (Tur) VS Austria Vienna (Aut)
+25.08. 22:00  Omonia (Cyp) VS Gent (Bel)
+25.08. 22:00  Sheriff Tiraspol (Mda) VS Pyunik Yerevan (Arm)
+25.08. 22:00  Sivasspor (Tur) VS Malmo FF (Swe)
+26.08. 00:00  Hearts (Sco) VS Zurich (Sui)
+26.08. 00:00  Olympiacos Piraeus (Gre) VS Apollon (Cyp)
+26.08. 00:00  Shamrock Rovers (Irl) VS Ferencvaros (Hun)
+
+2 ) LaLiga Santander
+
+26.08. 23:00  Girona VS Celta Vigo
+27.08. 01:00  Betis VS Osasuna
+27.08. 20:30  Elche VS Real Sociedad
+27.08. 22:30  Rayo Vallecano VS Mallorca
+28.08. 01:00  Almeria VS Sevilla
+28.08. 20:30  Getafe VS Villarreal
+28.08. 22:30  Barcelona VS Valladolid
+29.08. 01:00  Espanyol VS Real Madrid
+29.08. 23:00  Cadiz CF VS Ath Bilbao
+30.08. 01:00  Valencia VS Atl. Madrid
+
+3 ) Premier League 2022/2023
+
+27.08. 16:30  Southampton VS Manchester Utd
+27.08. 19:00  Brentford VS Everton
+27.08. 19:00  Brighton VS Leeds
+27.08. 19:00  Chelsea VS Leicester
+27.08. 19:00  Liverpool VS Bournemouth
+27.08. 19:00  Manchester City VS Crystal Palace
+27.08. 21:30  Arsenal VS Fulham
+28.08. 18:00  Aston Villa VS West Ham
+28.08. 18:00  Wolves VS Newcastle
+30.08. 23:30  Crystal Palace VS Brentford
+30.08. 23:30  Fulham VS Brighton
+30.08. 23:45  Southampton VS Chelsea
+31.08. 00:00  Leeds VS Everton
+31.08. 23:30  Arsenal VS Aston Villa
+31.08. 23:30  Bournemouth VS Wolves
+31.08. 23:30  Manchester City VS Nottingham
+31.08. 23:45  West Ham VS Tottenham
+01.09. 00:00  Liverpool VS Newcastle
+03.09. 16:30  Everton VS Liverpool
+03.09. 19:00  Brentford VS Leeds
+03.09. 19:00  Newcastle VS Crystal Palace
+03.09. 19:00  Nottingham VS Bournemouth
+03.09. 19:00  Tottenham VS Fulham
+03.09. 19:00  Wolves VS Southampton
+03.09. 21:30  Aston Villa VS Manchester City
+04.09. 18:00  Brighton VS Leicester
+04.09. 18:00  Chelsea VS West Ham
+10.09. 16:30  Fulham VS Chelsea
+10.09. 19:00  Bournemouth VS Brighton
+10.09. 19:00  Leicester VS Aston Villa
+10.09. 19:00  Liverpool VS Wolves
+10.09. 19:00  Southampton VS Brentford
+10.09. 21:30  Manchester City VS Tottenham
+11.09. 18:00  Arsenal VS Everton
+11.09. 18:00  West Ham VS Newcastle
+11.09. 20:30  Crystal Palace VS Manchester Utd
+17.09. 00:00  Aston Villa VS Southampton
+17.09. 00:00  Nottingham VS Fulham
+17.09. 16:30  Wolves VS Manchester City
+17.09. 19:00  Brighton VS Crystal Palace
+17.09. 19:00  Everton VS West Ham
+17.09. 19:00  Newcastle VS Bournemouth
+17.09. 21:30  Tottenham VS Leicester
+18.09. 18:00  Brentford VS Arsenal
+18.09. 18:00  Manchester Utd VS Leeds
+01.10. 16:30  Arsenal VS Tottenham
+01.10. 19:00  Bournemouth VS Brentford
+01.10. 19:00  Crystal Palace VS Chelsea
+01.10. 19:00  Fulham VS Newcastle
+01.10. 19:00  Liverpool VS Brighton
+01.10. 19:00  Southampton VS Everton
+01.10. 21:30  West Ham VS Wolves
+02.10. 18:00  Manchester City VS Manchester Utd
+02.10. 20:30  Leeds VS Aston Villa
+08.10. 19:00  Bournemouth VS Leicester
+08.10. 19:00  Chelsea VS Wolves
+08.10. 19:00  Manchester City VS Southampton
+08.10. 19:00  Newcastle VS Brentford
+08.10. 19:00  West Ham VS Fulham
+08.10. 21:30  Brighton VS Tottenham
+09.10. 18:00  Crystal Palace VS Leeds
+09.10. 20:30  Arsenal VS Liverpool
+09.10. 23:00  Everton VS Manchester Utd
+15.10. 00:00  Brentford VS Brighton
+15.10. 16:30  Leicester VS Crystal Palace
+15.10. 19:00  Fulham VS Bournemouth
+15.10. 19:00  Southampton VS West Ham
+15.10. 19:00  Wolves VS Nottingham
+15.10. 21:30  Tottenham VS Everton
+16.10. 18:00  Aston Villa VS Chelsea
+16.10. 18:00  Leeds VS Arsenal
+16.10. 18:00  Manchester Utd VS Newcastle
+18.10. 23:30  Brighton VS Nottingham
+18.10. 23:30  Crystal Palace VS Wolves
+19.10. 00:15  Bournemouth VS Southampton
+19.10. 23:30  Liverpool VS West Ham
+19.10. 23:30  Newcastle VS Everton
+20.10. 00:15  Manchester Utd VS Tottenham
+20.10. 23:30  Brentford VS Chelsea
+20.10. 23:30  Fulham VS Aston Villa
+20.10. 23:30  Leicester VS Leeds
+22.10. 16:30  Nottingham VS Liverpool
+22.10. 19:00  Everton VS Crystal Palace
+22.10. 21:30  Tottenham VS Newcastle
+23.10. 18:00  Aston Villa VS Brentford
+23.10. 18:00  Leeds VS Fulham
+23.10. 18:00  Manchester City VS Brighton
+23.10. 18:00  Southampton VS Arsenal
+23.10. 18:00  Wolves VS Leicester
+23.10. 20:30  Chelsea VS Manchester Utd
+29.10. 16:30  Leicester VS Manchester City
+29.10. 19:00  Bournemouth VS Tottenham
+29.10. 19:00  Brentford VS Wolves
+29.10. 19:00  Brighton VS Chelsea
+29.10. 19:00  Crystal Palace VS Southampton
+29.10. 19:00  Newcastle VS Aston Villa
+29.10. 21:30  Fulham VS Everton
+30.10. 19:00  Arsenal VS Nottingham
+30.10. 19:00  Liverpool VS Leeds
+28.08. 20:30  Nottingham VS Tottenham
+02.09. 00:00  Leicester VS Manchester Utd
+04.09. 20:30  Manchester Utd VS Arsenal
+13.09. 00:00  Leeds VS Nottingham
+18.09. 20:30  Chelsea VS Liverpool
+04.10. 00:00  Leicester VS Nottingham
+11.10. 00:00  Nottingham VS Aston Villa
+16.10. 20:30  Liverpool VS Manchester City
+21.10. 00:15  Arsenal VS Manchester City
+25.10. 00:00  West Ham VS Bournemouth
+30.10. 21:30  Manchester Utd VS West Ham
+
+4 ) Bundesliga 2022/2023
+
+26.08. 23:30  Freiburg VS Bochum
+27.08. 18:30  Hertha Berlin VS Dortmund
+27.08. 18:30  Hoffenheim VS Augsburg
+27.08. 18:30  Mainz VS Bayer Leverkusen
+27.08. 18:30  RB Leipzig VS Wolfsburg
+27.08. 18:30  Schalke VS Union Berlin
+27.08. 21:30  Bayern Munich VS B. Monchengladbach
+28.08. 18:30  FC Koln VS Stuttgart
+02.09. 23:30  Dortmund VS Hoffenheim
+03.09. 18:30  Bayer Leverkusen VS Freiburg
+03.09. 18:30  Bochum VS Werder Bremen
+03.09. 18:30  Stuttgart VS Schalke
+03.09. 18:30  Union Berlin VS Bayern Munich
+03.09. 18:30  Wolfsburg VS FC Koln
+03.09. 21:30  Eintracht Frankfurt VS RB Leipzig
+04.09. 18:30  Augsburg VS Hertha Berlin
+09.09. 23:30  Werder Bremen VS Augsburg
+10.09. 18:30  Bayern Munich VS Stuttgart
+10.09. 18:30  Eintracht Frankfurt VS Wolfsburg
+10.09. 18:30  Hertha Berlin VS Bayer Leverkusen
+10.09. 18:30  Hoffenheim VS Mainz
+10.09. 18:30  RB Leipzig VS Dortmund
+10.09. 21:30  Schalke VS Bochum
+11.09. 18:30  FC Koln VS Union Berlin
+16.09. 23:30  Mainz VS Hertha Berlin
+17.09. 18:30  Augsburg VS Bayern Munich
+17.09. 18:30  Bayer Leverkusen VS Werder Bremen
+17.09. 18:30  Dortmund VS Schalke
+17.09. 18:30  Stuttgart VS Eintracht Frankfurt
+17.09. 21:30  B. Monchengladbach VS RB Leipzig
+18.09. 18:30  Union Berlin VS Wolfsburg
+18.09. 20:30  Bochum VS FC Koln
+01.10. 18:30  Bayern Munich VS Bayer Leverkusen
+01.10. 18:30  Eintracht Frankfurt VS Union Berlin
+01.10. 18:30  FC Koln VS Dortmund
+01.10. 18:30  Freiburg VS Mainz
+01.10. 18:30  Hertha Berlin VS Hoffenheim
+01.10. 18:30  RB Leipzig VS Bochum
+01.10. 18:30  Schalke VS Augsburg
+01.10. 18:30  Werder Bremen VS B. Monchengladbach
+08.10. 18:30  Augsburg VS Wolfsburg
+08.10. 18:30  B. Monchengladbach VS FC Koln
+08.10. 18:30  Bayer Leverkusen VS Schalke
+08.10. 18:30  Bochum VS Eintracht Frankfurt
+08.10. 18:30  Dortmund VS Bayern Munich
+08.10. 18:30  Hertha Berlin VS Freiburg
+08.10. 18:30  Hoffenheim VS Werder Bremen
+08.10. 18:30  Mainz VS RB Leipzig
+15.10. 18:30  Bayern Munich VS Freiburg
+15.10. 18:30  Eintracht Frankfurt VS Bayer Leverkusen
+15.10. 18:30  FC Koln VS Augsburg
+15.10. 18:30  RB Leipzig VS Hertha Berlin
+15.10. 18:30  Schalke VS Hoffenheim
+15.10. 18:30  Stuttgart VS Bochum
+15.10. 18:30  Union Berlin VS Dortmund
+15.10. 18:30  Werder Bremen VS Mainz
+22.10. 18:30  Augsburg VS RB Leipzig
+22.10. 18:30  B. Monchengladbach VS Eintracht Frankfurt
+22.10. 18:30  Bayer Leverkusen VS Wolfsburg
+22.10. 18:30  Bochum VS Union Berlin
+22.10. 18:30  Dortmund VS Stuttgart
+22.10. 18:30  Freiburg VS Werder Bremen
+22.10. 18:30  Hertha Berlin VS Schalke
+22.10. 18:30  Hoffenheim VS Bayern Munich
+29.10. 18:30  Bayern Munich VS Mainz
+29.10. 18:30  Eintracht Frankfurt VS Dortmund
+29.10. 18:30  FC Koln VS Hoffenheim
+29.10. 18:30  RB Leipzig VS Bayer Leverkusen
+29.10. 18:30  Schalke VS Freiburg
+29.10. 18:30  Stuttgart VS Augsburg
+29.10. 18:30  Union Berlin VS B. Monchengladbach
+29.10. 18:30  Werder Bremen VS Hertha Berlin
+05.11. 19:30  Augsburg VS Eintracht Frankfurt
+05.11. 19:30  B. Monchengladbach VS Stuttgart
+05.11. 19:30  Bayer Leverkusen VS Union Berlin
+05.11. 19:30  Dortmund VS Bochum
+05.11. 19:30  Freiburg VS FC Koln
+05.11. 19:30  Hertha Berlin VS Bayern Munich
+05.11. 19:30  Hoffenheim VS RB Leipzig
+05.11. 19:30  Mainz VS Wolfsburg
+10.11. 00:30  Bayern Munich VS Werder Bremen
+10.11. 00:30  Bochum VS B. Monchengladbach
+10.11. 00:30  Eintracht Frankfurt VS Hoffenheim
+10.11. 00:30  FC Koln VS Bayer Leverkusen
+10.11. 00:30  RB Leipzig VS Freiburg
+10.11. 00:30  Schalke VS Mainz
+10.11. 00:30  Stuttgart VS Hertha Berlin
+10.11. 00:30  Union Berlin VS Augsburg
+12.11. 19:30  Augsburg VS Bochum
+12.11. 19:30  B. Monchengladbach VS Dortmund
+12.11. 19:30  Bayer Leverkusen VS Stuttgart
+12.11. 19:30  Freiburg VS Union Berlin
+12.11. 19:30  Hertha Berlin VS FC Koln
+12.11. 19:30  Hoffenheim VS Wolfsburg
+12.11. 19:30  Mainz VS Eintracht Frankfurt
+12.11. 19:30  Schalke VS Bayern Munich
+21.01. 19:30  B. Monchengladbach VS Bayer Leverkusen
+21.01. 19:30  Bochum VS Hertha Berlin
+21.01. 19:30  Dortmund VS Augsburg
+21.01. 19:30  Eintracht Frankfurt VS Schalke
+21.01. 19:30  FC Koln VS Werder Bremen
+21.01. 19:30  RB Leipzig VS Bayern Munich
+21.01. 19:30  Stuttgart VS Mainz
+21.01. 19:30  Union Berlin VS Hoffenheim
+28.08. 20:30  Werder Bremen VS Eintracht Frankfurt
+04.09. 20:30  B. Monchengladbach VS Mainz
+11.09. 20:30  Freiburg VS B. Monchengladbach
+18.09. 22:30  Hoffenheim VS Freiburg
+01.10. 18:30  Wolfsburg VS Stuttgart
+08.10. 18:30  Stuttgart VS Union Berlin
+15.10. 18:30  Wolfsburg VS B. Monchengladbach
+22.10. 18:30  Mainz VS FC Koln
+29.10. 18:30  Wolfsburg VS Bochum
+05.11. 19:30  Werder Bremen VS Schalke
+10.11. 00:30  Wolfsburg VS Dortmund
+12.11. 19:30  Werder Bremen VS RB Leipzig
+21.01. 19:30  Wolfsburg VS Freiburg
+
+5 ) Ligue 1 2022/2023 
+
+27.08. 00:00  AC Ajaccio VS Lille
+27.08. 20:00  Auxerre VS Strasbourg
+28.08. 00:00  Lens VS Rennes
+28.08. 16:00  Nantes VS Toulouse
+28.08. 18:00  Brest VS Montpellier
+28.08. 18:00  Lorient VS Clermont
+28.08. 18:00  Nice VS Marseille
+28.08. 18:00  Troyes VS Angers
+28.08. 20:05  Reims VS Lyon
+31.08. 22:00  Angers VS Reims
+31.08. 22:00  Lyon VS Auxerre
+31.08. 22:00  Monaco VS Troyes
+31.08. 22:00  Montpellier VS AC Ajaccio
+31.08. 22:00  Strasbourg VS Nantes
+01.09. 00:00  Lens VS Lorient
+01.09. 00:00  Lille VS Nice
+01.09. 00:00  Marseille VS Clermont
+01.09. 00:00  Rennes VS Brest
+03.09. 20:00  Auxerre VS Marseille
+03.09. 22:00  Lyon VS Angers
+04.09. 00:00  Nantes VS Paris SG
+04.09. 16:00  Montpellier VS Lille
+04.09. 18:00  AC Ajaccio VS Lorient
+04.09. 18:00  Brest VS Strasbourg
+04.09. 18:00  Clermont VS Toulouse
+04.09. 18:00  Reims VS Lens
+04.09. 20:05  Troyes VS Rennes
+11.09. 18:00  AC Ajaccio VS Nice
+11.09. 18:00  Angers VS Montpellier
+11.09. 18:00  Lens VS Troyes
+11.09. 18:00  Lorient VS Nantes
+11.09. 18:00  Marseille VS Lille
+11.09. 18:00  Monaco VS Lyon
+11.09. 18:00  Paris SG VS Brest
+11.09. 18:00  Rennes VS Auxerre
+11.09. 18:00  Strasbourg VS Clermont
+18.09. 18:00  Auxerre VS Lorient
+18.09. 18:00  Brest VS AC Ajaccio
+18.09. 18:00  Clermont VS Troyes
+18.09. 18:00  Lille VS Toulouse
+18.09. 18:00  Lyon VS Paris SG
+18.09. 18:00  Marseille VS Rennes
+18.09. 18:00  Montpellier VS Strasbourg
+18.09. 18:00  Nantes VS Lens
+18.09. 18:00  Nice VS Angers
+02.10. 18:00  AC Ajaccio VS Clermont
+02.10. 18:00  Angers VS Marseille
+02.10. 18:00  Auxerre VS Brest
+02.10. 18:00  Lens VS Lyon
+02.10. 18:00  Lorient VS Lille
+02.10. 18:00  Monaco VS Nantes
+02.10. 18:00  Paris SG VS Nice
+02.10. 18:00  Strasbourg VS Rennes
+02.10. 18:00  Toulouse VS Montpellier
+09.10. 18:00  Angers VS Strasbourg
+09.10. 18:00  Brest VS Lorient
+09.10. 18:00  Clermont VS Auxerre
+09.10. 18:00  Lille VS Lens
+09.10. 18:00  Lyon VS Toulouse
+09.10. 18:00  Marseille VS AC Ajaccio
+09.10. 18:00  Montpellier VS Monaco
+09.10. 18:00  Nice VS Troyes
+09.10. 18:00  Reims VS Paris SG
+16.10. 18:00  Auxerre VS Nice
+16.10. 18:00  Lens VS Montpellier
+16.10. 18:00  Lorient VS Reims
+16.10. 18:00  Monaco VS Clermont
+16.10. 18:00  Nantes VS Brest
+16.10. 18:00  Paris SG VS Marseille
+16.10. 18:00  Rennes VS Lyon
+16.10. 18:00  Strasbourg VS Lille
+16.10. 18:00  Toulouse VS Angers
+23.10. 18:00  AC Ajaccio VS Paris SG
+23.10. 18:00  Angers VS Rennes
+23.10. 18:00  Clermont VS Brest
+23.10. 18:00  Lille VS Monaco
+23.10. 18:00  Marseille VS Lens
+23.10. 18:00  Montpellier VS Lyon
+23.10. 18:00  Nice VS Nantes
+23.10. 18:00  Reims VS Auxerre
+23.10. 18:00  Toulouse VS Strasbourg
+30.10. 19:00  Auxerre VS AC Ajaccio
+30.10. 19:00  Brest VS Reims
+30.10. 19:00  Lens VS Toulouse
+30.10. 19:00  Lorient VS Nice
+30.10. 19:00  Lyon VS Lille
+30.10. 19:00  Monaco VS Angers
+30.10. 19:00  Nantes VS Clermont
+30.10. 19:00  Paris SG VS Troyes
+30.10. 19:00  Rennes VS Montpellier
+06.11. 19:00  AC Ajaccio VS Strasbourg
+06.11. 19:00  Angers VS Lens
+06.11. 19:00  Clermont VS Montpellier
+06.11. 19:00  Lille VS Rennes
+06.11. 19:00  Lorient VS Paris SG
+06.11. 19:00  Marseille VS Lyon
+06.11. 19:00  Nice VS Brest
+06.11. 19:00  Reims VS Nantes
+06.11. 19:00  Toulouse VS Monaco
+13.11. 19:00  Brest VS Troyes
+13.11. 19:00  Lens VS Clermont
+13.11. 19:00  Lille VS Angers
+13.11. 19:00  Lyon VS Nice
+13.11. 19:00  Monaco VS Marseille
+13.11. 19:00  Montpellier VS Reims
+13.11. 19:00  Nantes VS AC Ajaccio
+13.11. 19:00  Paris SG VS Auxerre
+13.11. 19:00  Rennes VS Toulouse
+28.08. 23:45  Paris SG VS Monaco
+01.09. 00:00  Toulouse VS Paris SG
+04.09. 23:45  Nice VS Monaco
+11.09. 18:00  Toulouse VS Reims
+18.09. 18:00  Reims VS Monaco
+02.10. 18:00  Troyes VS Reims
+09.10. 18:00  Rennes VS Nantes
+16.10. 18:00  Troyes VS AC Ajaccio
+23.10. 18:00  Troyes VS Lorient
+30.10. 19:00  Strasbourg VS Marseille
+06.11. 19:00  Troyes VS Auxerre
+13.11. 19:00  Strasbourg VS Lorient
